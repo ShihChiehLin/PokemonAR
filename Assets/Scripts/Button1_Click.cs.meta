@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd75e15307ffe4f428ac2e5d5646fba4
+timeCreated: 1519091644
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mButton: {instanceID: 0}
+  - shotSound: {fileID: 8300000, guid: 965b072f9fc4bc946a9395eddbe64aab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
